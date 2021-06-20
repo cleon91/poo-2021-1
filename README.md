@@ -36,3 +36,4 @@ Passo 6: realizar um commit
 Passo 7: fazer push para o repositório
 > git push origin <coloque aqui o nome da branch que você criou>
 
+Passo 8: criar uma pull request: [Na dúvida, clique aqui](https://docs.github.com/pt/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
